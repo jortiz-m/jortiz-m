@@ -7,9 +7,8 @@
 
 <h2>Skills</h2>
 <ul>
-    <li>Languages: C </li>
-    <li>Tools: Git, Linux</li>
-    <li>Frameworks: [Any relevant frameworks or libraries]</li>
+    <li>Languages: C. </li>
+    <li>Tools: Git, Linux. </li>
 </ul>
 
 # Technical Knowledge
