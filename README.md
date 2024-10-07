@@ -75,4 +75,4 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jortiz-m)](https://github.com/jortiz-m)
 
 <h2>Interests</h2>
-<p>I'm passionate about coding, problem-solving, and collaborating on open-source projects.</p>
+<p>I'm passionate about coding, problem-solving, collaborating on open-source projects and I'm always open to learning. </p>
