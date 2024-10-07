@@ -66,9 +66,9 @@
 </table>
 </div>
 
-# Projects & Docs
+# Projects
 
-| [![42 Projects](https://github.com/antonimodev/antonimodev/blob/main/banners/Projects42.png)](https://github.com/antonimodev/42-Common-Core)
+[![42 Projects](https://github.com/antonimodev/antonimodev/blob/main/banners/Projects42.png)](https://github.com/antonimodev/42-Common-Core)
 
 
 <h2>Connect with Me</h2>
