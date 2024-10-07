@@ -1,4 +1,4 @@
-<h1>Hello, I'm Julia</h1>
+<h1>Hello, I'm Julia (jortiz-m)/h1>
 
 <p>I'm a student at <strong>42 Málaga</strong>, where I'm learning programming in C and diving into the world of software development.</p>
 
@@ -10,9 +10,6 @@
 </ul>
 
 # Technical Knowledge
-
-I have a keen interest in exploring various technologies and methodologies. I firmly believe that this curiosity not only broadens my skill set but also enhances my adaptability to tackle diverse challenges in my professional journey.
-
 
 <div align="center">
   
@@ -33,7 +30,6 @@ I have a keen interest in exploring various technologies and methodologies. I fi
         <tr>
             <td align="center">🧠 Programming Languages</td>
             <td>
-                 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=orange"/>
                  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
             </td>
             <td>
@@ -64,7 +60,6 @@ I have a keen interest in exploring various technologies and methodologies. I fi
             <td>
                  <img alt="Excalidraw" src="https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white">
 		 <img alt="Notion" src="https://img.shields.io/badge/Notion-CC5500?style=for-the-badge&logo=notion&logoColor=white">
-                 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
             </td>
             <td>
                  🔎
@@ -80,15 +75,6 @@ I have a keen interest in exploring various technologies and methodologies. I fi
                  🔎
             </td>
         </tr>
-	    <tr>
-		    <td align="center">🔒 Cybersecurity</td>
-		    <td>
-			    <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-4CDEE0?style=for-the-badge&logo=Wireshark&logoColor=white"/>
-		    </td>
-		    <td>
-			    🔎
-		    </td>
-	    </tr>
     </tbody>
 </table>
 </div>
