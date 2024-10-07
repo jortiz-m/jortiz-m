@@ -64,11 +64,11 @@
     </tbody>
 </table>
 </div>
-
+ 
 # Projects
 
 
-- [42Cursus](https://github.com/jortiz-m?tab=repositories)
+- [42Cursus] <img alt="https://i.ytimg.com/vi/jmi9WXlHMOc/maxresdefault.jpg" src="(https://github.com/jortiz-m?tab=repositories)"/>
 - [Own projects](https://github.com/jortiz-m/TheBirthGame )
 
 # Follow Me
