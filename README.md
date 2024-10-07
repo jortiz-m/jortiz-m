@@ -68,6 +68,9 @@
 # Projects
 
 
+- [Proyecto 1](https://github.com/tu_usuario/proyecto1) - 42 Cursus.
+- [Proyecto 2](https://github.com/tu_usuario/proyecto2) - own projects.
+
 # Follow Me
 
 [![Gmail Badge](https://img.shields.io/badge/juliaortizmora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julaiortizmora@gmail.com)](juliaortizmora@gmail.com)
