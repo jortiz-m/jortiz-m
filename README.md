@@ -5,7 +5,7 @@
 
 <p>I'm a student at <strong>42 Málaga</strong>, where I'm learning programming in C and diving into the world of software development.</p>
 
-<h2>Skills</h2>
+# Skills
 <ul>
     <li>Languages: C. </li>
     <li>Tools: Git, Linux. </li>
