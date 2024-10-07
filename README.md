@@ -68,8 +68,8 @@
 # Projects
 
 
-- [Cursus] (https://github.com/jortiz-m/libft) - 42 Cursus.
-- [Own projects(https://github.com/jortiz-m/TheBirthGame ) - own projects.
+- [Cursus](https://github.com/jortiz-m/libft) - 42 Cursus.
+- [Own projects](https://github.com/jortiz-m/TheBirthGame ) - own projects.
 
 # Follow Me
 
