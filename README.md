@@ -68,11 +68,11 @@
 # Projects
 
 
-## Follow Me
+# Follow Me
 
 [![Gmail Badge](https://img.shields.io/badge/juliaortizmora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julaiortizmora@gmail.com)](juliaortizmora@gmail.com)
 [![Linkedin Badge]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jortiz-m)](https://github.com/jortiz-m)
 
-<h2>Interests</h2>
+# Interests
 <p>I'm passionate about coding, problem-solving, collaborating on open-source projects and I'm always open to learning. </p>
