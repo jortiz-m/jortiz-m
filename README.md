@@ -68,7 +68,7 @@
 # Projects
 
 
-- [Proyecto 1](https://github.com/tu_usuario/proyecto1) - 42 Cursus.
+- [Proyecto 1](https://github.com/jortiz-m/libft) - 42 Cursus.
 - [Proyecto 2](https://github.com/tu_usuario/proyecto2) - own projects.
 
 # Follow Me
