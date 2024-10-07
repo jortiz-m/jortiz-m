@@ -68,14 +68,12 @@
 
 # Projects
 
-[![42 Projects]
 
+## Follow Me
 
-<h2>Connect with Me</h2>
-<p>You can find me on:</p>
-<ul>
-    <li><a href="https://linkedin.com/in/your_profile">LinkedIn</a></li>
-</ul>
+[![Gmail Badge](https://img.shields.io/badge/-ingjuliaortizmora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.julaiortizmora@gmail.com)](juliaortizmora@gmail.com)
+[![Linkedin Badge]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jortiz-m)](https://github.com/jortiz-m)
 
 <h2>Interests</h2>
 <p>I'm passionate about coding, problem-solving, and collaborating on open-source projects.</p>
