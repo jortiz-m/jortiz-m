@@ -1,4 +1,4 @@
-<h1>Hello, I'm Julia (jortiz-m)/h1>
+<h1>Hello, I'm Julia (jortiz-m)/<h1>
 
 <p>I'm a student at <strong>42 Málaga</strong>, where I'm learning programming in C and diving into the world of software development.</p>
 
