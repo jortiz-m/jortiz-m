@@ -62,21 +62,6 @@
     </tbody>
 </table>
 </div>
-
-<h3>Concepts</h3>
-<ul>
-    <li>Object-Oriented Programming</li>
-    <li>Data Structures & Algorithms</li>
-    <li>Version Control with Git</li>
-    <li>Software Development Life Cycle</li>
-</ul>
-
-<h2>Knowledge Showcase</h2>
-<p>Here are some images that represent my skills:</p>
-<img src="https://link_to_your_image1.jpg" alt="Description of image 1" style="width:200px;"/>
-<img src="https://link_to_your_image2.jpg" alt="Description of image 2" style="width:200px;"/>
-<img src="https://link_to_your_image3.jpg" alt="Description of image 3" style="width:200px;"/>
-
 <h2>Connect with Me</h2>
 <p>You can find me on:</p>
 <ul>
