@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
+	
+![Julia Ortiz](https://github.com/user-attachments/assets/c147f6bd-8b8e-4f15-a25a-1a4e6ce01b49)
 
 <h1>Hello, I'm Julia (jortiz-m)</h1>
 
