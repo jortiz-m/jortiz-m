@@ -76,4 +76,4 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jortiz-m)](https://github.com/jortiz-m)
 
-[![Linkedin Badge](https://https://www.linkedin.com/in/julia-ortiz-8a954b347/?trk=opento_sprofile_pfeditor)
+[![Linkedin Badge](https://https:www.linkedin.com/in/julia-ortiz-8a954b347)
