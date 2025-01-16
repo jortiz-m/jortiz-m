@@ -76,6 +76,6 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jortiz-m)](https://github.com/jortiz-m)
 
-<a href="https://www.linkedin.com/in/julia-ortiz/">
+<a href="https://www.linkedin.com/in/julia-ortiz-8a954b347">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
